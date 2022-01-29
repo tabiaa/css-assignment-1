@@ -1,0 +1,32 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+.bg {
+    background-image: url("../images/pexels-fauxels-3184418.jpg");
+    height: 707px; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: lighten;
+    padding-left: 250px;
+    padding-right: 200px;
+  }
+  .button {
+    background-color: rgb(197, 63, 63);
+    border-radius: 5px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+.column{
+    float: left;
+    width: 25%;
+}
+.para{
+    padding-left: 50px;
+    padding-right: 50px;
+} 
